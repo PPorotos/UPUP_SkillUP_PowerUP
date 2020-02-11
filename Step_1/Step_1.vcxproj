@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="20200210_algo_1000.c" />
+    <ClCompile Include="20200210_algo_10718.c" />
     <ClCompile Include="20200210_algo_2557.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
