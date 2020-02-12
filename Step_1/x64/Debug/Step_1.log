@@ -1,0 +1,6 @@
+﻿  20200210_algo_1000.c
+20200210_algo_10718.obj : error LNK2005: main이(가) 20200210_algo_1000.obj에 이미 정의되어 있습니다.
+20200210_algo_2557.obj : error LNK2005: main이(가) 20200210_algo_1000.obj에 이미 정의되어 있습니다.
+20200212_algo_2588.obj : error LNK2005: InputNum이(가) 20200210_algo_1000.obj에 이미 정의되어 있습니다.
+20200212_algo_2588.obj : error LNK2005: main이(가) 20200210_algo_1000.obj에 이미 정의되어 있습니다.
+C:\Users\ksh16\Documents\Algorithm\x64\Debug\Step_1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

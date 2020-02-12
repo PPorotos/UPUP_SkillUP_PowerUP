@@ -36,5 +36,3 @@ int InputNum()
 
 	return number;
 }
-
-

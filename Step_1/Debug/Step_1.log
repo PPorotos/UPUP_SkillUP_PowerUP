@@ -1,0 +1,8 @@
+﻿  20200210_algo_1000.c
+c:\users\ksh16\documents\algorithm\step_1\20200210_algo_1000.c(33): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  20200210_algo_10718.c
+  20200210_algo_2557.c
+  20200212_algo_2588.c
+  코드를 생성하고 있습니다...
+c:\users\ksh16\documents\algorithm\step_1\20200212_algo_2588.c(31): warning C4716: 'InputNum': 값을 반환해야 합니다.
+c:\users\ksh16\documents\algorithm\step_1\20200212_algo_2588.c(39): error C4700: 초기화되지 않은 'tempNum' 지역 변수를 사용했습니다.

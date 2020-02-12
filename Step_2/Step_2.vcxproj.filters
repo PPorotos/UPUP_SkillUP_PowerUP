@@ -14,18 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="20200210_algo_2557.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20200210_algo_10718.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20200210_algo_1000.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20200212_algo_2588.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>

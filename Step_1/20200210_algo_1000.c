@@ -30,7 +30,7 @@ int InputNum()
 {
 	int number = 0;
 
-	scanf_s("%d", number);
+	scanf_s("%d", &number);
 	
 	return number;
 }
