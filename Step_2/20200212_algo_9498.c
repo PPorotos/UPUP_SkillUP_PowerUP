@@ -20,7 +20,7 @@ int InputNum() {
 
 	do {
 		tempScore = scanf_s("%d", &tempScore);
-	} while (tempScore >= 0 && tempScore <= 100);
+	} while (tempScore < 0 && tempScore > 100);
 
 	return tempScore;
 }

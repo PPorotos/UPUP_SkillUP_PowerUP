@@ -25,7 +25,7 @@ int InputNum()
 	{
 		scanf_s("%d", &number);
 
-	} while (number >= -10000 && number <= 10000);
+	} while (number < -10000 && number > 10000);
 
 	return number;
 }
