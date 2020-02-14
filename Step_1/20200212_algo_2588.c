@@ -32,7 +32,9 @@ int InputNum()
 {
 	int number;
 
-	scanf_s("%d", &number);
+	do {
+		scanf_s("%d", &number);
+	} while (number % 100 >= 10);
 
 	return number;
 }

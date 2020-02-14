@@ -127,6 +127,8 @@
     <ClCompile Include="20200210_algo_10718.c" />
     <ClCompile Include="20200210_algo_2557.c" />
     <ClCompile Include="20200212_algo_2588.c" />
+    <ClCompile Include="20200214_algo_2753.c" />
+    <ClCompile Include="20200214_algo_2884.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
