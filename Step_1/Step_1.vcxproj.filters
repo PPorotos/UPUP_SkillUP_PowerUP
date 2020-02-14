@@ -33,5 +33,23 @@
     <ClCompile Include="20200214_algo_2884.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Step3_2739.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_10950.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_8393.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_ 2741.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_2742.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_2438.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
