@@ -15,40 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20200210_algo_2557.c">
+    <ClCompile Include="Step1_1000.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="20200210_algo_10718.c">
+    <ClCompile Include="Step1_2557.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="20200210_algo_1000.c">
+    <ClCompile Include="Step1_10718.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="20200212_algo_2588.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20200214_algo_2753.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20200214_algo_2884.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_2739.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_10950.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_8393.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_ 2741.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_2742.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Step3_2438.c">
+    <ClCompile Include="Step1_2588.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
