@@ -33,5 +33,11 @@
     <ClCompile Include="Step3_10950.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Step3_2439.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step3_10871.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

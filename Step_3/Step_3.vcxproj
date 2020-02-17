@@ -124,8 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Step3_ 2741.c" />
+    <ClCompile Include="Step3_10871.c" />
     <ClCompile Include="Step3_10950.c" />
     <ClCompile Include="Step3_2438.c" />
+    <ClCompile Include="Step3_2439.c" />
     <ClCompile Include="Step3_2739.c" />
     <ClCompile Include="Step3_2742.c" />
     <ClCompile Include="Step3_8393.c" />
