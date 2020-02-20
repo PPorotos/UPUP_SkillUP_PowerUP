@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Step5_10818.c" />
+    <ClCompile Include="Step5_1546.c" />
     <ClCompile Include="Step5_2562.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
