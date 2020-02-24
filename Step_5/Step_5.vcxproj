@@ -127,6 +127,8 @@
     <ClCompile Include="Step5_1546.c" />
     <ClCompile Include="Step5_2557.c" />
     <ClCompile Include="Step5_2562.c" />
+    <ClCompile Include="Step5_3052.c" />
+    <ClCompile Include="Step5_8958.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
