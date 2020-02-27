@@ -27,5 +27,8 @@
     <ClCompile Include="Step2_2884.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Step2_10817.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

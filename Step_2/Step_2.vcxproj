@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Step2_10817.c" />
     <ClCompile Include="Step2_1330.c" />
     <ClCompile Include="Step2_2753.c" />
     <ClCompile Include="Step2_2884.c" />
