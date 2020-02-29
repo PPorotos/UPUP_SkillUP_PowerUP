@@ -16,12 +16,12 @@ int main()
 
 	SelfNum(1, numbers);
 
-	for (i = 0; i < 10000; i++)
+	/*for (i = 0; i < 10000; i++)
 	{
 		if (numbers[i] == 0)
 			printf("%d\n", i + 1);
 	}
-
+*/
 	system("pause");
 	return 0;
 }
@@ -47,6 +47,8 @@ void SelfNum(int num, int* numbers)
 		total += (num % count) / (count / 10);
 		count /= 10;
 	}
+
+	printf("%d\n", total);
 
 	numbers[total] = 1;
 	SelfNum(total, numbers);
