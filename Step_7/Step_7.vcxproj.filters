@@ -21,5 +21,16 @@
     <ClCompile Include="Step7_11720.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Step7_10809.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Answer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

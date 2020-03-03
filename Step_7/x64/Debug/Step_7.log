@@ -1,2 +1,6 @@
-﻿  Step7_11720.c
+﻿  Step7_10809.c
+c:\users\ksh16\documents\algorithm\step_7\step7_10809.c(17): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+c:\users\ksh16\documents\algorithm\step_7\step7_10809.c(17): warning C4024: 'SetChar': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ksh16\documents\algorithm\step_7\step7_10809.c(17): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[25]'과(와) 다릅니다.
+c:\users\ksh16\documents\algorithm\step_7\step7_10809.c(17): warning C4024: 'SetChar': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
   Step_7.vcxproj -> C:\Users\ksh16\Documents\Algorithm\x64\Debug\Step_7.exe

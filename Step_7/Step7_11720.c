@@ -1,20 +1,18 @@
 #include <stdio.h>
 #include <Windows.h>
 
-int SumNum(int number);
+float SumNum(int number);
+void Answer11720();
 
-int main()
+void Answer11720()
 {
-	printf("%d\n", SumNum(700000000));
-
-	system("pause");
-	return 0;
+	printf("%d\n", SumNum(700000000000000000));
 }
 
-int SumNum(int number)
+float SumNum(int number)
 {
 	int temp = 1;
-	int total = 0;
+	float total = 0;
 
 	while (1)
 	{
