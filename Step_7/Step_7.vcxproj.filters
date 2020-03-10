@@ -27,6 +27,9 @@
     <ClCompile Include="Step7_10809.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Step7_1152.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Answer.h">

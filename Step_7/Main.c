@@ -6,7 +6,8 @@ int main()
 {
 	//Answer11654();
 	//Answer11720();
-	Answer10809();
+	//Answer10809();
+	Answer1152();
 
 	system("pause");
 	return 0;
