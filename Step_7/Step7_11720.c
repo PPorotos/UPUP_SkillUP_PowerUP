@@ -5,7 +5,7 @@ int SumNum(unsigned long long number);
 
 void Answer11720()
 {
-	printf("%d\n", SumNum((long long)700000000000));
+	printf("%d\n", SumNum(70000));
 }
 
 int SumNum(unsigned long long number)
