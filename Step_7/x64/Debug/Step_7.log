@@ -1,3 +1,5 @@
 ﻿  Step7_2908.c
-c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_2908.c(30): warning C4716: 'GetNumber': 값을 반환해야 합니다.
-  Step_7.vcxproj -> C:\Users\Grection\Documents\Graction\김정훈\Algorithm\UPUP_SkillUP_PowerUP\x64\Debug\Step_7.exe
+c:\users\ksh16\documents\algorithm\step_7\step7_2908.c(18): warning C4020: 'ChangeStr': 실제 매개 변수가 너무 많습니다.
+c:\users\ksh16\documents\algorithm\step_7\step7_2908.c(19): warning C4020: 'ChangeStr': 실제 매개 변수가 너무 많습니다.
+c:\users\ksh16\documents\algorithm\step_7\step7_2908.c(25): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+  Step_7.vcxproj -> C:\Users\ksh16\Documents\Algorithm\x64\Debug\Step_7.exe
