@@ -8,7 +8,8 @@ int main()
 	//Answer11720();
 	//Answer10809();
 	//Answer1152();
-	Answer2908();
+	//Answer2908();
+	Answer5622();
 
 	system("pause");
 	return 0;
