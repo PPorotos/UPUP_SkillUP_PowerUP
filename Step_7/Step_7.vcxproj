@@ -129,6 +129,7 @@
     <ClCompile Include="Step7_1157.c" />
     <ClCompile Include="Step7_11654.c" />
     <ClCompile Include="Step7_11720.c" />
+    <ClCompile Include="Step7_1316.c" />
     <ClCompile Include="Step7_2908.c" />
     <ClCompile Include="Step7_5622.c" />
   </ItemGroup>
