@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <Windows.h>
 
+/*
+	입력받은 만큼 체크해서 카운트 할수있게 수정
+*/
 int CheckStr(char str[]);
 
 void Answer1316()
