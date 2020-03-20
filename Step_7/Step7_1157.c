@@ -2,15 +2,11 @@
 #include <Windows.h>
 
 int CountStr(char str[]);
-void PrintAnswer(int answer);
 
 void Answer1157()
 {
-	PrintAnswer(CountStr("Mississipi"));
-}
+	int answer = CountStr("Mississipi");
 
-void PrintAnswer(int answer)
-{
 	if (answer == -1)
 		printf("?\n");
 	else
