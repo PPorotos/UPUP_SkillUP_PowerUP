@@ -2,16 +2,16 @@
 #include <Windows.h>
 
 /*
-	입력받은 만큼 체크해서 카운트 할수있게 수정
+	문제 틀림
 */
 int CheckStr(char str[]);
-void SetStr(char* str, char temp[]);
 
 void Answer1316()
 {
 	char** str;
 	int count = 0, i, j;
-	
+	int answer = 0;
+
 	printf("count = ");
 	scanf_s("%d", &count);
 	str = (char**)malloc(sizeof(char*) * count);
@@ -20,29 +20,19 @@ void Answer1316()
 		str[i] = (char*)malloc(sizeof(char) * 100);
 
 	for (i = 0; i < count; i++)
-	{ 
-		char temp[100];
-		printf("str[%d] = ", i);
-		scanf_s("%s", temp);
-		SetStr(str[i], temp);
+	{
+		char temp[50];
+		scanf_s("%s", str[i], sizeof(str[i]));
 	}
-		
 
 	for (i = 0; i < count; i++)
-		printf("%d\n", CheckStr(str[i]));
+		answer += CheckStr(str[i]);
+
+	printf("%d \n", answer);
 
 	for (i = 0; i < count; i++)
 		free(str[i]);
 	free(str);
-}
-
-void SetStr(char* str, char temp[])
-{
-	int i;
-	for (i = 0; temp != '\0'; i++)
-		str[i] = temp[i];
-
-	str[i] = '\0';
 }
 
 int CheckStr(char str[])
