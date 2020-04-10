@@ -1,35 +1,28 @@
 #include <stdio.h>
-#include <Windows.h>
 
 int CheckStr(char str[]);
 
-void Answer1316()
+int main()
 {
-	char** str;
-	int count = 0, i, j;
+	int count = 0;
+	int i;
 	int answer = 0;
 
-	printf("count = ");
-	scanf_s("%d", &count);
-	str = (char**)malloc(sizeof(char*) * count);
+	char str[50] = { 0, };
 
-	for (i = 0; i < count; i++)
-		str[i] = (char*)malloc(sizeof(char) * 100);
+	scanf("%d", &count);
 
 	for (i = 0; i < count; i++)
 	{
-		char temp[50];
-		scanf_s("%s", str[i], sizeof(str[i]));
+		scanf("%s", str, sizeof(str));
+
+		answer += CheckStr(str);
 	}
 
-	for (i = 0; i < count; i++)
-		answer += CheckStr(str[i]);
+	printf("%d", answer);
 
-	printf("%d \n", answer);
 
-	for (i = 0; i < count; i++)
-		free(str[i]);
-	free(str);
+	return 0;
 }
 
 int CheckStr(char str[])
@@ -37,7 +30,7 @@ int CheckStr(char str[])
 	int arr[26] = { 0, };
 	int i;
 
-	for (i = 0; i < strlen(str) - 1; i++)
+	for (i = 0; i < str[i + 1] != '\0'; i++)
 	{
 		if (str[i] != str[i + 1])
 		{
@@ -50,3 +43,4 @@ int CheckStr(char str[])
 
 	return 1;
 }
+

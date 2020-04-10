@@ -1,6 +1,4 @@
 ﻿  Step7_1316.c
-c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(25): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(25): note: 이 인수는 버퍼 크기로 사용됩니다.
-c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
-c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(24): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(18): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_7\step7_1316.c(18): note: 이 인수는 버퍼 크기로 사용됩니다.
   Step_7.vcxproj -> C:\Users\Grection\Documents\Graction\김정훈\Algorithm\UPUP_SkillUP_PowerUP\x64\Debug\Step_7.exe
