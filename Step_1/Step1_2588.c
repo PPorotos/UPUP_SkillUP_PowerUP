@@ -2,17 +2,17 @@
 #include <Windows.h>
 
 
-int InputNum();
+//int InputNum();
 
 void main() 
 {
 	int number1 = 0, number2 = 0;
 	int temp, total = 0;
 
-	printf("두개의 숫자를 입력하세요 :");
+	//printf("두개의 숫자를 입력하세요 :");
 
-	number1 = InputNum();
-	number2 = InputNum();
+	scanf("%d", &number1);
+	scanf("%d", &number2);
 
 	temp = number1 * (number2 % 10);
 	total += temp;
@@ -25,7 +25,7 @@ void main()
 	printf("%d\n", temp);
 
 	printf("%d\n", total);
-	system("pause");
+	
 }
 
 int InputNum() 

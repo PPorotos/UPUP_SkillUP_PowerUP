@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <Windows.h>
 
-/*
-	문제 틀림
-*/
 int CheckStr(char str[]);
 
 void Answer1316()

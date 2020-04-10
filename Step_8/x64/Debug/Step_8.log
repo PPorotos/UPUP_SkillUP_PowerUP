@@ -1,0 +1,6 @@
+﻿  Step8_1712.c
+  main.c
+  코드를 생성하고 있습니다...
+c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_8\main.c(10): error C4700: 초기화되지 않은 'A' 지역 변수를 사용했습니다.
+c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_8\main.c(18): error C4700: 초기화되지 않은 'B' 지역 변수를 사용했습니다.
+c:\users\grection\documents\graction\김정훈\algorithm\upup_skillup_powerup\step_8\main.c(19): error C4700: 초기화되지 않은 'C' 지역 변수를 사용했습니다.
