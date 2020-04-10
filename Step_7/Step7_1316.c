@@ -40,16 +40,15 @@ int CheckStr(char str[])
 	int arr[26] = { 0, };
 	int i;
 
-	for (i = 0; str[i] != '\0'; i++)
+	for (i = 0; i < strlen(str) - 1; i++)
 	{
-		int temp = str[i] - 'a';
-
-		if (i == 0 || arr[temp] == 0)
-			arr[temp] = i;
-		else if (i - arr[temp] <= 1)
-			arr[temp] = i;
-		else
-			return 0;
+		if (str[i] != str[i + 1])
+		{
+			if (arr[str[i + 1] - 'a'] != 0)
+				return 0;
+			else
+				arr[str[i] - 'a'] = 1;
+		}
 	}
 
 	return 1;
