@@ -18,5 +18,8 @@
     <ClCompile Include="Step8_1712.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Step8_2839.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

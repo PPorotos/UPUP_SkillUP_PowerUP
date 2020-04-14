@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main1712()
 {
 	int a = 0, b = 0, c = 0;
 	
