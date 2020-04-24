@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int main()
+int main2839()
 {
 	int num = 0;
 	int count = 0;
 
-	scanf("%d", &num);
+	scanf_s("%d", &num);
 
 	while (1)
 	{
